@@ -5,21 +5,25 @@ It's been a long while since I first desired to become data analytics and this y
 
 Tools I love
 Here are the languages and tools that I use for my data projects: 
-![Python](https://img.shields.io/badge/python-blue?&style=flat-square-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square-square&logo=jupyter&logoColor=white)
+
+![Python](https://img.shields.io/badge/python-blue?&style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-orange?style=flat-square&logo=jupyter&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql&logoColor=F29111)
 ![R](https://img.shields.io/badge/-R-276DC2?style=flat-square&logo=R)
 ![Tableau](https://img.shields.io/badge/-Tableau-blue?style=flat-square&logo=tableau&logoColor=white)
 
 Here are the languages and tools that I use for Frontend:
-![Javascript]https://img.shields.io/badge/javascript-F7DF1E?&style=flat-square&logo=javascript&logoColor=black
-![react]https://img.shields.io/badge/react-20232a?&style=flat-square&logo=react&logoColor=61DAFB
-![html5]https://img.shields.io/badge/html5-E34F26?&style=flat-square&logo=html5&logoColor=white
-![css3]https://img.shields.io/badge/css3-1572B6?&style=flat-square&logo=css3&logoColor=white
-![SASS]https://img.shields.io/badge/SASS-hotpink?&style=flat-square&logo=SASS&logoColor=white
-![firebase]https://img.shields.io/badge/firebase-039BE5?&style=flat-square&logo=firebase
+
+![Javascript](https://img.shields.io/badge/javascript-F7DF1E?&style=flat-square&logo=javascript&logoColor=black)
+![react](https://img.shields.io/badge/react-20232a?&style=flat-square&logo=react&logoColor=61DAFB)
+![html5](https://img.shields.io/badge/html5-E34F26?&style=flat-square&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/css3-1572B6?&style=flat-square&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink?&style=flat-square&logo=SASS&logoColor=white)
+![firebase](https://img.shields.io/badge/firebase-039BE5?&style=flat-square&logo=firebase)
+
 Version Control
-![git]https://img.shields.io/badge/git-F05033?&style=flat-square&logo=git&logoColor=white
+
+![git](https://img.shields.io/badge/git-F05033?&style=flat-square&logo=git&logoColor=white)
 
 📖   I'm currently :
 
@@ -35,7 +39,9 @@ Reading the books:
 - [ ]  [学び効率が最大化するインプット大全](https://www.amazon.co.jp/%E5%AD%A6%E3%81%B3%E5%8A%B9%E7%8E%87%E3%81%8C%E6%9C%80%E5%A4%A7%E5%8C%96%E3%81%99%E3%82%8B%E3%82%A4%E3%83%B3%E3%83%97%E3%83%83%E3%83%88%E5%A4%A7%E5%85%A8-%E6%A8%BA%E6%B2%A2%E7%B4%AB%E8%8B%91/dp/4801400698)
 
 🎖 I’m looking for team members to collaborate on Kaggle competitions.
+
 🙏 If you would like to build a team, please contact me!
+
 🛠 Here in this repo you can find my tech stack and projects, one day there'll be plenty of them!
 
 <!--
