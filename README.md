@@ -29,8 +29,8 @@ Version Control
 
 Following the MOOC courses below:
 
-- [x]  [Google Data Analytics Specialization](https://www.notion.so/0ad6ead310ccce190847c121ebaea8ee) by Google,
-- [x]  [Google IT Automation with Python Specialization](https://www.notion.so/544a3db6765307d61ce9a4546a369454) by Google
+- [x]  [Google Data Analytics Specialization](https://coursera.org/share/0ad6ead310ccce190847c121ebaea8ee) by Google,
+- [x]  [Google IT Automation with Python Specialization](https://coursera.org/share/544a3db6765307d61ce9a4546a369454) by Google
 
 Reading the books:
 
