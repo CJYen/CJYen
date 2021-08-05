@@ -1,7 +1,7 @@
 # 👋 Hi there! Bonjour!
-Hello there! I'm CJ, an open-source enthusiast. Love #r, #python, #crypto and love to explore new technologies and leverage them to solve real-world problems. 
+Hello there! I'm CJ, an open-source enthusiast. Love #r, #python, #crypto, and love to explore new technologies and leverage them to solve real-world problems. 
 
-It's been a long while since I first desired to become data analytics and this year I took the chance to embrace the art of data analytics.
+It's been a long while since I first desired to become data analytics and this year I took the chance to embrace the art of data.
 
 Tools I love
 Here are the languages and tools that I use for my data projects: 
