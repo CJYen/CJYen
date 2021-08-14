@@ -29,7 +29,7 @@ Following the MOOC courses below:
 
 - [x]  [Google Data Analytics Specialization](https://coursera.org/share/0ad6ead310ccce190847c121ebaea8ee) by Coursera,
 - [x]  [Google IT Automation with Python Specialization](https://coursera.org/share/544a3db6765307d61ce9a4546a369454) by Coursera,
-- [x]  [IBM Machine Learning with Python](https://coursera.org/share/07aa14a4d39810871ab87b6f310f9a8f)by Coursera
+- [x]  [IBM Machine Learning with Python](https://coursera.org/share/07aa14a4d39810871ab87b6f310f9a8f) by Coursera
 - [ ]  [AWS Machine Learning Foundations Nanodegree Program] WIP
 
 Reading the books:
